@@ -3,7 +3,7 @@ O curso é destinado a prover conhecimento sobre a Lei 13.709/2018 LGPD (Lei Ger
 
 https://www.elaborata.com.br/treinamentos/standards-amp-compliance
 
-![Curso de Cybersecurity: Standards & Compliance - Elaborata Informática](https://www.elaborata.com.br/u/treinamentos/155/standards-amp-compliance-imagem.jpg)
+[![Curso de Cybersecurity: Standards & Compliance - Elaborata Informática](https://www.elaborata.com.br/u/treinamentos/155/standards-amp-compliance-imagem.jpg)](https://www.elaborata.com.br/treinamentos/standards-amp-compliance)
 
 ## Descrição
 
