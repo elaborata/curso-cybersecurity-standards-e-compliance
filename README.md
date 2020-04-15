@@ -3,6 +3,8 @@ O curso é destinado a prover conhecimento sobre a Lei 13.709/2018 LGPD (Lei Ger
 
 https://www.elaborata.com.br/treinamentos/standards-amp-compliance
 
+![Curso de Cybersecurity: Standards & Compliance - Elaborata Informática](https://www.elaborata.com.br/u/treinamentos/155/standards-amp-compliance-imagem.jpg)
+
 ## Descrição
 
 A lei geral de proteção de dados pessoais, LGPD, publicada em 14 de agosto de 2018 no diário oficial da união, tem como o objetivo de garantir ao cidadão a proteção de dados confiados a empresas em processos de registro.
